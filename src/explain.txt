@@ -1,0 +1,8 @@
+navlink and link gives an anchor tag but navlink has a built in tag which shows active when clicked on.
+nested route do not need to begin with slash
+Loaders helps use to fetch data from an api before its rendered
+npm i -g json-server to install server for jsonnpm
+json-server -p portnum(4000) -w ./data/db.json to run json server.
+useNavigation could be used to to check the state of fetching data from an api endpoint
+useRouter Error could be used to flaq an error for a router.throw and error n detect.
+Breadcrums(useLocation hooks) are list of location user has visited to get to current location.
